@@ -1,0 +1,41 @@
+{
+    "food_cluster": {
+        "lesson_num": 0
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499951,
+                "file_path": "results\\sf-nb0.3f-e2.5f-nbvisible-foodintesity-acceleration-radius50-predator300f\\FishSF\\FishSF-499951.onnx",
+                "reward": null,
+                "creation_time": 1648813551.0316014,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.3f-e2.5f-nbvisible-foodintesity-acceleration-radius50-predator300f\\FishSF\\FishSF-499951.pt"
+                ]
+            },
+            {
+                "steps": 590780,
+                "file_path": "results\\sf-nb0.3f-e2.5f-nbvisible-foodintesity-acceleration-radius50-predator300f\\FishSF\\FishSF-590780.onnx",
+                "reward": null,
+                "creation_time": 1648813641.347543,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.3f-e2.5f-nbvisible-foodintesity-acceleration-radius50-predator300f\\FishSF\\FishSF-590780.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 590780,
+            "file_path": "results\\sf-nb0.3f-e2.5f-nbvisible-foodintesity-acceleration-radius50-predator300f\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1648813641.347543,
+            "auxillary_file_paths": [
+                "results\\sf-nb0.3f-e2.5f-nbvisible-foodintesity-acceleration-radius50-predator300f\\FishSF\\FishSF-590780.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

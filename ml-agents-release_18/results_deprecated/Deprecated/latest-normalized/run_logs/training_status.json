@@ -1,0 +1,68 @@
+{
+    "food_cluster": {
+        "lesson_num": 1
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499939,
+                "file_path": "results\\latest-normalized\\FishSF\\FishSF-499939.onnx",
+                "reward": -163.13333322604498,
+                "creation_time": 1650531833.5671244,
+                "auxillary_file_paths": [
+                    "results\\latest-normalized\\FishSF\\FishSF-499939.pt"
+                ]
+            },
+            {
+                "steps": 700127,
+                "file_path": "results\\latest-normalized\\FishSF\\FishSF-700127.onnx",
+                "reward": -257.500003695488,
+                "creation_time": 1650532093.3063967,
+                "auxillary_file_paths": [
+                    "results\\latest-normalized\\FishSF\\FishSF-700127.pt"
+                ]
+            },
+            {
+                "steps": 700127,
+                "file_path": "results\\latest-normalized\\FishSF\\FishSF-700127.onnx",
+                "reward": null,
+                "creation_time": 1650533863.9638867,
+                "auxillary_file_paths": [
+                    "results\\latest-normalized\\FishSF\\FishSF-700127.pt"
+                ]
+            },
+            {
+                "steps": 999944,
+                "file_path": "results\\latest-normalized\\FishSF\\FishSF-999944.onnx",
+                "reward": null,
+                "creation_time": 1650534262.0444021,
+                "auxillary_file_paths": [
+                    "results\\latest-normalized\\FishSF\\FishSF-999944.pt"
+                ]
+            },
+            {
+                "steps": 1146679,
+                "file_path": "results\\latest-normalized\\FishSF\\FishSF-1146679.onnx",
+                "reward": -242.43333760897318,
+                "creation_time": 1650534426.3955882,
+                "auxillary_file_paths": [
+                    "results\\latest-normalized\\FishSF\\FishSF-1146679.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1146679,
+            "file_path": "results\\latest-normalized\\FishSF.onnx",
+            "reward": -242.43333760897318,
+            "creation_time": 1650534426.3955882,
+            "auxillary_file_paths": [
+                "results\\latest-normalized\\FishSF\\FishSF-1146679.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.11.0+cu115"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "food_cluster": {
+        "lesson_num": 2
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499964,
+                "file_path": "results\\curiosity-bestworstneighbor\\FishSF\\FishSF-499964.onnx",
+                "reward": null,
+                "creation_time": 1649400282.8183522,
+                "auxillary_file_paths": [
+                    "results\\curiosity-bestworstneighbor\\FishSF\\FishSF-499964.pt"
+                ]
+            },
+            {
+                "steps": 999959,
+                "file_path": "results\\curiosity-bestworstneighbor\\FishSF\\FishSF-999959.onnx",
+                "reward": null,
+                "creation_time": 1649400882.407907,
+                "auxillary_file_paths": [
+                    "results\\curiosity-bestworstneighbor\\FishSF\\FishSF-999959.pt"
+                ]
+            },
+            {
+                "steps": 1499969,
+                "file_path": "results\\curiosity-bestworstneighbor\\FishSF\\FishSF-1499969.onnx",
+                "reward": null,
+                "creation_time": 1649401480.9039037,
+                "auxillary_file_paths": [
+                    "results\\curiosity-bestworstneighbor\\FishSF\\FishSF-1499969.pt"
+                ]
+            },
+            {
+                "steps": 1999970,
+                "file_path": "results\\curiosity-bestworstneighbor\\FishSF\\FishSF-1999970.onnx",
+                "reward": null,
+                "creation_time": 1649402099.484274,
+                "auxillary_file_paths": [
+                    "results\\curiosity-bestworstneighbor\\FishSF\\FishSF-1999970.pt"
+                ]
+            },
+            {
+                "steps": 2002466,
+                "file_path": "results\\curiosity-bestworstneighbor\\FishSF\\FishSF-2002466.onnx",
+                "reward": null,
+                "creation_time": 1649402100.178132,
+                "auxillary_file_paths": [
+                    "results\\curiosity-bestworstneighbor\\FishSF\\FishSF-2002466.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2002466,
+            "file_path": "results\\curiosity-bestworstneighbor\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1649402100.178132,
+            "auxillary_file_paths": [
+                "results\\curiosity-bestworstneighbor\\FishSF\\FishSF-2002466.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

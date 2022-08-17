@@ -1,0 +1,68 @@
+{
+    "food_cluster": {
+        "lesson_num": 0
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 2999936,
+                "file_path": "results\\sfnewadjusted\\FishSF\\FishSF-2999936.onnx",
+                "reward": null,
+                "creation_time": 1648649056.5165734,
+                "auxillary_file_paths": [
+                    "results\\sfnewadjusted\\FishSF\\FishSF-2999936.pt"
+                ]
+            },
+            {
+                "steps": 3499968,
+                "file_path": "results\\sfnewadjusted\\FishSF\\FishSF-3499968.onnx",
+                "reward": null,
+                "creation_time": 1648649582.7339082,
+                "auxillary_file_paths": [
+                    "results\\sfnewadjusted\\FishSF\\FishSF-3499968.pt"
+                ]
+            },
+            {
+                "steps": 3999936,
+                "file_path": "results\\sfnewadjusted\\FishSF\\FishSF-3999936.onnx",
+                "reward": null,
+                "creation_time": 1648650109.0236213,
+                "auxillary_file_paths": [
+                    "results\\sfnewadjusted\\FishSF\\FishSF-3999936.pt"
+                ]
+            },
+            {
+                "steps": 4176000,
+                "file_path": "results\\sfnewadjusted\\FishSF\\FishSF-4176000.onnx",
+                "reward": null,
+                "creation_time": 1648650301.912214,
+                "auxillary_file_paths": [
+                    "results\\sfnewadjusted\\FishSF\\FishSF-4176000.pt"
+                ]
+            },
+            {
+                "steps": 4188800,
+                "file_path": "results\\sfnewadjusted\\FishSF\\FishSF-4188800.onnx",
+                "reward": null,
+                "creation_time": 1648650361.9988322,
+                "auxillary_file_paths": [
+                    "results\\sfnewadjusted\\FishSF\\FishSF-4188800.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4188800,
+            "file_path": "results\\sfnewadjusted\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1648650361.9988322,
+            "auxillary_file_paths": [
+                "results\\sfnewadjusted\\FishSF\\FishSF-4188800.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

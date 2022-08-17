@@ -1,0 +1,65 @@
+{
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 1499970,
+                "file_path": "results\\curiosity-full-no-swarm\\FishSF\\FishSF-1499970.onnx",
+                "reward": null,
+                "creation_time": 1649260413.035775,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-no-swarm\\FishSF\\FishSF-1499970.pt"
+                ]
+            },
+            {
+                "steps": 1734020,
+                "file_path": "results\\curiosity-full-no-swarm\\FishSF\\FishSF-1734020.onnx",
+                "reward": null,
+                "creation_time": 1649260717.7318919,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-no-swarm\\FishSF\\FishSF-1734020.pt"
+                ]
+            },
+            {
+                "steps": 1748342,
+                "file_path": "results\\curiosity-full-no-swarm\\FishSF\\FishSF-1748342.onnx",
+                "reward": null,
+                "creation_time": 1649260761.3479366,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-no-swarm\\FishSF\\FishSF-1748342.pt"
+                ]
+            },
+            {
+                "steps": 1999965,
+                "file_path": "results\\curiosity-full-no-swarm\\FishSF\\FishSF-1999965.onnx",
+                "reward": null,
+                "creation_time": 1649261127.425351,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-no-swarm\\FishSF\\FishSF-1999965.pt"
+                ]
+            },
+            {
+                "steps": 2001949,
+                "file_path": "results\\curiosity-full-no-swarm\\FishSF\\FishSF-2001949.onnx",
+                "reward": null,
+                "creation_time": 1649261128.060541,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-no-swarm\\FishSF\\FishSF-2001949.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2001949,
+            "file_path": "results\\curiosity-full-no-swarm\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1649261128.060541,
+            "auxillary_file_paths": [
+                "results\\curiosity-full-no-swarm\\FishSF\\FishSF-2001949.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

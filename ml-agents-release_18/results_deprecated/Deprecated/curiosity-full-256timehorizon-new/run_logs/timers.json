@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1649319214",
+        "python_version": "3.9.9 (tags/v3.9.9:ccb0e6a, Nov 15 2021, 18:08:50) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\Mon\\Desktop\\Senior\\ml-agents-release_18\\venv\\Scripts\\mlagents-learn config/ppo/FishSF_curiosity.yaml --run-id=curiosity-full-256timehorizon-new --force",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.22.0",
+        "end_time_seconds": "1649319218"
+    },
+    "total": 4.0001484,
+    "count": 1,
+    "self": 0.005418699999999443,
+    "children": {
+        "run_training.setup": {
+            "total": 0.11152510000000015,
+            "count": 1,
+            "self": 0.11152510000000015
+        },
+        "TrainerController.start_learning": {
+            "total": 3.8832046,
+            "count": 1,
+            "self": 0.0003516999999999548,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 3.8828435000000003,
+                    "count": 1,
+                    "self": 3.8828435000000003
+                },
+                "trainer_threads": {
+                    "total": 1.000000000139778e-06,
+                    "count": 1,
+                    "self": 1.000000000139778e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 8.399999999575414e-06,
+                    "count": 1,
+                    "self": 8.399999999575414e-06
+                }
+            }
+        }
+    }
+}

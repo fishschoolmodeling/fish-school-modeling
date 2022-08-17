@@ -1,0 +1,68 @@
+{
+    "food_cluster": {
+        "lesson_num": 0
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499957,
+                "file_path": "results\\curiosity-full-64timehorizon-new1\\FishSF\\FishSF-499957.onnx",
+                "reward": -222.16666718324026,
+                "creation_time": 1649323074.2224772,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-64timehorizon-new1\\FishSF\\FishSF-499957.pt"
+                ]
+            },
+            {
+                "steps": 513141,
+                "file_path": "results\\curiosity-full-64timehorizon-new1\\FishSF\\FishSF-513141.onnx",
+                "reward": null,
+                "creation_time": 1649323095.4220793,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-64timehorizon-new1\\FishSF\\FishSF-513141.pt"
+                ]
+            },
+            {
+                "steps": 575064,
+                "file_path": "results\\curiosity-full-64timehorizon-new1\\FishSF\\FishSF-575064.onnx",
+                "reward": null,
+                "creation_time": 1649324048.2046165,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-64timehorizon-new1\\FishSF\\FishSF-575064.pt"
+                ]
+            },
+            {
+                "steps": 645928,
+                "file_path": "results\\curiosity-full-64timehorizon-new1\\FishSF\\FishSF-645928.onnx",
+                "reward": null,
+                "creation_time": 1649324151.310368,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-64timehorizon-new1\\FishSF\\FishSF-645928.pt"
+                ]
+            },
+            {
+                "steps": 761170,
+                "file_path": "results\\curiosity-full-64timehorizon-new1\\FishSF\\FishSF-761170.onnx",
+                "reward": null,
+                "creation_time": 1649324341.1575134,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-64timehorizon-new1\\FishSF\\FishSF-761170.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 761170,
+            "file_path": "results\\curiosity-full-64timehorizon-new1\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1649324341.1575134,
+            "auxillary_file_paths": [
+                "results\\curiosity-full-64timehorizon-new1\\FishSF\\FishSF-761170.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

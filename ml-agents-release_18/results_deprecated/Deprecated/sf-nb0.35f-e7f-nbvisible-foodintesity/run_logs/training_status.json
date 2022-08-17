@@ -1,0 +1,68 @@
+{
+    "food_cluster": {
+        "lesson_num": 0
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF\\FishSF-499968.onnx",
+                "reward": null,
+                "creation_time": 1648715351.3356867,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF\\FishSF-499968.pt"
+                ]
+            },
+            {
+                "steps": 999936,
+                "file_path": "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF\\FishSF-999936.onnx",
+                "reward": null,
+                "creation_time": 1648715849.1112123,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF\\FishSF-999936.pt"
+                ]
+            },
+            {
+                "steps": 1499968,
+                "file_path": "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF\\FishSF-1499968.onnx",
+                "reward": null,
+                "creation_time": 1648716361.0258672,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF\\FishSF-1499968.pt"
+                ]
+            },
+            {
+                "steps": 1999936,
+                "file_path": "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF\\FishSF-1999936.onnx",
+                "reward": null,
+                "creation_time": 1648716849.7838733,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF\\FishSF-1999936.pt"
+                ]
+            },
+            {
+                "steps": 2403200,
+                "file_path": "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF\\FishSF-2403200.onnx",
+                "reward": null,
+                "creation_time": 1648717239.215792,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF\\FishSF-2403200.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2403200,
+            "file_path": "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1648717239.215792,
+            "auxillary_file_paths": [
+                "results\\sf-nb0.35f-e7f-nbvisible-foodintesity\\FishSF\\FishSF-2403200.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

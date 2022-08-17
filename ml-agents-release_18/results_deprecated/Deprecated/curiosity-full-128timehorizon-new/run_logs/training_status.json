@@ -1,0 +1,50 @@
+{
+    "food_cluster": {
+        "lesson_num": 2
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499966,
+                "file_path": "results\\curiosity-full-128timehorizon-new\\FishSF\\FishSF-499966.onnx",
+                "reward": -191.40000200271606,
+                "creation_time": 1649319884.9522114,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-128timehorizon-new\\FishSF\\FishSF-499966.pt"
+                ]
+            },
+            {
+                "steps": 999938,
+                "file_path": "results\\curiosity-full-128timehorizon-new\\FishSF\\FishSF-999938.onnx",
+                "reward": null,
+                "creation_time": 1649320449.877127,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-128timehorizon-new\\FishSF\\FishSF-999938.pt"
+                ]
+            },
+            {
+                "steps": 1476897,
+                "file_path": "results\\curiosity-full-128timehorizon-new\\FishSF\\FishSF-1476897.onnx",
+                "reward": null,
+                "creation_time": 1649320995.4881196,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-128timehorizon-new\\FishSF\\FishSF-1476897.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1476897,
+            "file_path": "results\\curiosity-full-128timehorizon-new\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1649320995.4881196,
+            "auxillary_file_paths": [
+                "results\\curiosity-full-128timehorizon-new\\FishSF\\FishSF-1476897.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

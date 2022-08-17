@@ -1,0 +1,41 @@
+{
+    "food_cluster": {
+        "lesson_num": 1
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499960,
+                "file_path": "results\\curiosity-full-64timehorizon-new\\FishSF\\FishSF-499960.onnx",
+                "reward": null,
+                "creation_time": 1649321616.312494,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-64timehorizon-new\\FishSF\\FishSF-499960.pt"
+                ]
+            },
+            {
+                "steps": 868907,
+                "file_path": "results\\curiosity-full-64timehorizon-new\\FishSF\\FishSF-868907.onnx",
+                "reward": null,
+                "creation_time": 1649322063.8373256,
+                "auxillary_file_paths": [
+                    "results\\curiosity-full-64timehorizon-new\\FishSF\\FishSF-868907.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 868907,
+            "file_path": "results\\curiosity-full-64timehorizon-new\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1649322063.8373256,
+            "auxillary_file_paths": [
+                "results\\curiosity-full-64timehorizon-new\\FishSF\\FishSF-868907.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

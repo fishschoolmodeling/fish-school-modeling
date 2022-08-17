@@ -1,0 +1,68 @@
+{
+    "food_cluster": {
+        "lesson_num": 0
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 3499968,
+                "file_path": "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF\\FishSF-3499968.onnx",
+                "reward": null,
+                "creation_time": 1648735458.4059067,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF\\FishSF-3499968.pt"
+                ]
+            },
+            {
+                "steps": 3999936,
+                "file_path": "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF\\FishSF-3999936.onnx",
+                "reward": null,
+                "creation_time": 1648736022.5348294,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF\\FishSF-3999936.pt"
+                ]
+            },
+            {
+                "steps": 4499968,
+                "file_path": "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF\\FishSF-4499968.onnx",
+                "reward": null,
+                "creation_time": 1648736590.1568663,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF\\FishSF-4499968.pt"
+                ]
+            },
+            {
+                "steps": 4999936,
+                "file_path": "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF\\FishSF-4999936.onnx",
+                "reward": null,
+                "creation_time": 1648737148.6531172,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF\\FishSF-4999936.pt"
+                ]
+            },
+            {
+                "steps": 5001600,
+                "file_path": "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF\\FishSF-5001600.onnx",
+                "reward": null,
+                "creation_time": 1648737148.9937992,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF\\FishSF-5001600.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5001600,
+            "file_path": "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1648737148.9937992,
+            "auxillary_file_paths": [
+                "results\\sf-nb0.35f-e2.5f-nbvisible-foodintesity-acceleration-radius50\\FishSF\\FishSF-5001600.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

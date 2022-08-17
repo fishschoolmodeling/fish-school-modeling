@@ -1,0 +1,83 @@
+{
+  "count": 1,
+  "self": 137.12565759999998,
+  "total": 267.0475007,
+  "children": {
+    "InitializeActuators": {
+      "count": 75,
+      "self": 0.0049291,
+      "total": 0.0049291,
+      "children": null
+    },
+    "InitializeSensors": {
+      "count": 75,
+      "self": 0.0019997,
+      "total": 0.0019997,
+      "children": null
+    },
+    "AgentSendState": {
+      "count": 9205,
+      "self": 4.3110196,
+      "total": 12.2756086,
+      "children": {
+        "CollectObservations": {
+          "count": 138075,
+          "self": 7.7960895999999993,
+          "total": 7.7960895999999993,
+          "children": null
+        },
+        "WriteActionMask": {
+          "count": 138075,
+          "self": 0.0568852,
+          "total": 0.0568852,
+          "children": null
+        },
+        "RequestDecision": {
+          "count": 138075,
+          "self": 0.1116143,
+          "total": 0.1116143,
+          "children": null
+        }
+      }
+    },
+    "DecideAction": {
+      "count": 9205,
+      "self": 116.1103488,
+      "total": 116.30751409999999,
+      "children": {
+        "RayPerceptionSensor.Perceive": {
+          "count": 138075,
+          "self": 0.1971597,
+          "total": 0.1971597,
+          "children": null
+        }
+      }
+    },
+    "AgentAct": {
+      "count": 9205,
+      "self": 1.3307963999999999,
+      "total": 1.3307963999999999,
+      "children": null
+    }
+  },
+  "gauges": {
+    "FishSF.CumulativeReward": {
+      "count": 12,
+      "max": -90.3,
+      "min": -343.60022,
+      "runningAverage": -162.966736,
+      "value": -144.199951,
+      "weightedAverage": -198.156876
+    }
+  },
+  "metadata": {
+    "timer_format_version": "0.1.0",
+    "start_time_seconds": "1649327106",
+    "unity_version": "2020.3.18f1",
+    "command_line_arguments": "C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.18f1\\Editor\\Unity.exe -projectpath C:\\Projects\\unity-fish-schooling-ml\\UnityProject -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-Buttcheek -hubSessionId c3c5f960-b63b-11ec-95b8-afef5bbd3997 -accessToken cbpvJr5oI3ssysfOSsTxD5SNo_ctBs2ivwzF-TlGFUA011f",
+    "communication_protocol_version": "1.5.0",
+    "com.unity.ml-agents_version": "2.1.0-exp.1",
+    "scene_name": "SchoolingForaging",
+    "end_time_seconds": "1649327373"
+  }
+}

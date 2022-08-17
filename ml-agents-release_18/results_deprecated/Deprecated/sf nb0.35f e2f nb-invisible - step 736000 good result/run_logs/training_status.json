@@ -1,0 +1,50 @@
+{
+    "food_cluster": {
+        "lesson_num": 0
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\sfnb0.35f\\FishSF\\FishSF-499968.onnx",
+                "reward": null,
+                "creation_time": 1648651988.8266013,
+                "auxillary_file_paths": [
+                    "results\\sfnb0.35f\\FishSF\\FishSF-499968.pt"
+                ]
+            },
+            {
+                "steps": 528000,
+                "file_path": "results\\sfnb0.35f\\FishSF\\FishSF-528000.onnx",
+                "reward": null,
+                "creation_time": 1648652017.7191036,
+                "auxillary_file_paths": [
+                    "results\\sfnb0.35f\\FishSF\\FishSF-528000.pt"
+                ]
+            },
+            {
+                "steps": 736000,
+                "file_path": "results\\sfnb0.35f\\FishSF\\FishSF-736000.onnx",
+                "reward": null,
+                "creation_time": 1648652301.9640386,
+                "auxillary_file_paths": [
+                    "results\\sfnb0.35f\\FishSF\\FishSF-736000.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 736000,
+            "file_path": "results\\sfnb0.35f\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1648652301.9640386,
+            "auxillary_file_paths": [
+                "results\\sfnb0.35f\\FishSF\\FishSF-736000.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

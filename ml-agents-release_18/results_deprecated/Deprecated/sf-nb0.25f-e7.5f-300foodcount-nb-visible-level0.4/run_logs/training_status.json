@@ -1,0 +1,32 @@
+{
+    "food_cluster": {
+        "lesson_num": 0
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 297600,
+                "file_path": "results\\sf-nb0.25f-e7.5f-300foodcount-nb-visible-level0.4\\FishSF\\FishSF-297600.onnx",
+                "reward": null,
+                "creation_time": 1648664584.3198135,
+                "auxillary_file_paths": [
+                    "results\\sf-nb0.25f-e7.5f-300foodcount-nb-visible-level0.4\\FishSF\\FishSF-297600.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 297600,
+            "file_path": "results\\sf-nb0.25f-e7.5f-300foodcount-nb-visible-level0.4\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1648664584.3198135,
+            "auxillary_file_paths": [
+                "results\\sf-nb0.25f-e7.5f-300foodcount-nb-visible-level0.4\\FishSF\\FishSF-297600.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

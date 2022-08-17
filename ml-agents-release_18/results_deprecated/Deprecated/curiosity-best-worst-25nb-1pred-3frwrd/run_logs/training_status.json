@@ -1,0 +1,68 @@
+{
+    "food_cluster": {
+        "lesson_num": 1
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499980,
+                "file_path": "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF\\FishSF-499980.onnx",
+                "reward": null,
+                "creation_time": 1649761259.268837,
+                "auxillary_file_paths": [
+                    "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF\\FishSF-499980.pt"
+                ]
+            },
+            {
+                "steps": 999939,
+                "file_path": "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF\\FishSF-999939.onnx",
+                "reward": null,
+                "creation_time": 1649761893.0866945,
+                "auxillary_file_paths": [
+                    "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF\\FishSF-999939.pt"
+                ]
+            },
+            {
+                "steps": 1499960,
+                "file_path": "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF\\FishSF-1499960.onnx",
+                "reward": null,
+                "creation_time": 1649762532.3708138,
+                "auxillary_file_paths": [
+                    "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF\\FishSF-1499960.pt"
+                ]
+            },
+            {
+                "steps": 1999961,
+                "file_path": "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF\\FishSF-1999961.onnx",
+                "reward": -149.30000485976538,
+                "creation_time": 1649763151.01217,
+                "auxillary_file_paths": [
+                    "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF\\FishSF-1999961.pt"
+                ]
+            },
+            {
+                "steps": 2000025,
+                "file_path": "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF\\FishSF-2000025.onnx",
+                "reward": -149.30000485976538,
+                "creation_time": 1649763151.1988297,
+                "auxillary_file_paths": [
+                    "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF\\FishSF-2000025.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000025,
+            "file_path": "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF.onnx",
+            "reward": -149.30000485976538,
+            "creation_time": 1649763151.1988297,
+            "auxillary_file_paths": [
+                "results\\curiosity-best-worst-25nb-1pred-3frwrd\\FishSF\\FishSF-2000025.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

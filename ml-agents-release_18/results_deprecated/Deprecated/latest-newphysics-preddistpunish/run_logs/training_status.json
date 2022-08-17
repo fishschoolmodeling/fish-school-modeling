@@ -1,0 +1,68 @@
+{
+    "food_cluster": {
+        "lesson_num": 1
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\latest-newphysics-preddistpunish\\FishSF\\FishSF-499968.onnx",
+                "reward": null,
+                "creation_time": 1650890550.2181854,
+                "auxillary_file_paths": [
+                    "results\\latest-newphysics-preddistpunish\\FishSF\\FishSF-499968.pt"
+                ]
+            },
+            {
+                "steps": 999936,
+                "file_path": "results\\latest-newphysics-preddistpunish\\FishSF\\FishSF-999936.onnx",
+                "reward": null,
+                "creation_time": 1650891135.9394596,
+                "auxillary_file_paths": [
+                    "results\\latest-newphysics-preddistpunish\\FishSF\\FishSF-999936.pt"
+                ]
+            },
+            {
+                "steps": 1499968,
+                "file_path": "results\\latest-newphysics-preddistpunish\\FishSF\\FishSF-1499968.onnx",
+                "reward": null,
+                "creation_time": 1650891735.157749,
+                "auxillary_file_paths": [
+                    "results\\latest-newphysics-preddistpunish\\FishSF\\FishSF-1499968.pt"
+                ]
+            },
+            {
+                "steps": 1999936,
+                "file_path": "results\\latest-newphysics-preddistpunish\\FishSF\\FishSF-1999936.onnx",
+                "reward": null,
+                "creation_time": 1650892337.5946066,
+                "auxillary_file_paths": [
+                    "results\\latest-newphysics-preddistpunish\\FishSF\\FishSF-1999936.pt"
+                ]
+            },
+            {
+                "steps": 2001600,
+                "file_path": "results\\latest-newphysics-preddistpunish\\FishSF\\FishSF-2001600.onnx",
+                "reward": null,
+                "creation_time": 1650892338.17425,
+                "auxillary_file_paths": [
+                    "results\\latest-newphysics-preddistpunish\\FishSF\\FishSF-2001600.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2001600,
+            "file_path": "results\\latest-newphysics-preddistpunish\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1650892338.17425,
+            "auxillary_file_paths": [
+                "results\\latest-newphysics-preddistpunish\\FishSF\\FishSF-2001600.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.11.0+cu115"
+    }
+}

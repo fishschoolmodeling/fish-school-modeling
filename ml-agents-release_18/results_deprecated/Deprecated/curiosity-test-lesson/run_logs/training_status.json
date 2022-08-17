@@ -1,0 +1,68 @@
+{
+    "food_cluster": {
+        "lesson_num": 2
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499976,
+                "file_path": "results\\curiosity-test-lesson\\FishSF\\FishSF-499976.onnx",
+                "reward": null,
+                "creation_time": 1649223947.9198568,
+                "auxillary_file_paths": [
+                    "results\\curiosity-test-lesson\\FishSF\\FishSF-499976.pt"
+                ]
+            },
+            {
+                "steps": 999958,
+                "file_path": "results\\curiosity-test-lesson\\FishSF\\FishSF-999958.onnx",
+                "reward": null,
+                "creation_time": 1649224594.9423401,
+                "auxillary_file_paths": [
+                    "results\\curiosity-test-lesson\\FishSF\\FishSF-999958.pt"
+                ]
+            },
+            {
+                "steps": 1499944,
+                "file_path": "results\\curiosity-test-lesson\\FishSF\\FishSF-1499944.onnx",
+                "reward": null,
+                "creation_time": 1649225235.0179152,
+                "auxillary_file_paths": [
+                    "results\\curiosity-test-lesson\\FishSF\\FishSF-1499944.pt"
+                ]
+            },
+            {
+                "steps": 1999985,
+                "file_path": "results\\curiosity-test-lesson\\FishSF\\FishSF-1999985.onnx",
+                "reward": null,
+                "creation_time": 1649225854.3011038,
+                "auxillary_file_paths": [
+                    "results\\curiosity-test-lesson\\FishSF\\FishSF-1999985.pt"
+                ]
+            },
+            {
+                "steps": 2001137,
+                "file_path": "results\\curiosity-test-lesson\\FishSF\\FishSF-2001137.onnx",
+                "reward": null,
+                "creation_time": 1649225854.6968963,
+                "auxillary_file_paths": [
+                    "results\\curiosity-test-lesson\\FishSF\\FishSF-2001137.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2001137,
+            "file_path": "results\\curiosity-test-lesson\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1649225854.6968963,
+            "auxillary_file_paths": [
+                "results\\curiosity-test-lesson\\FishSF\\FishSF-2001137.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

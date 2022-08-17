@@ -1,0 +1,68 @@
+{
+    "food_cluster": {
+        "lesson_num": 2
+    },
+    "FishSF": {
+        "checkpoints": [
+            {
+                "steps": 499970,
+                "file_path": "results\\curiosity-curriculum-normalized\\FishSF\\FishSF-499970.onnx",
+                "reward": -261.9333394765854,
+                "creation_time": 1649245928.7856278,
+                "auxillary_file_paths": [
+                    "results\\curiosity-curriculum-normalized\\FishSF\\FishSF-499970.pt"
+                ]
+            },
+            {
+                "steps": 999942,
+                "file_path": "results\\curiosity-curriculum-normalized\\FishSF\\FishSF-999942.onnx",
+                "reward": null,
+                "creation_time": 1649246536.4195082,
+                "auxillary_file_paths": [
+                    "results\\curiosity-curriculum-normalized\\FishSF\\FishSF-999942.pt"
+                ]
+            },
+            {
+                "steps": 1499958,
+                "file_path": "results\\curiosity-curriculum-normalized\\FishSF\\FishSF-1499958.onnx",
+                "reward": null,
+                "creation_time": 1649247154.7042108,
+                "auxillary_file_paths": [
+                    "results\\curiosity-curriculum-normalized\\FishSF\\FishSF-1499958.pt"
+                ]
+            },
+            {
+                "steps": 1999990,
+                "file_path": "results\\curiosity-curriculum-normalized\\FishSF\\FishSF-1999990.onnx",
+                "reward": null,
+                "creation_time": 1649247773.6312957,
+                "auxillary_file_paths": [
+                    "results\\curiosity-curriculum-normalized\\FishSF\\FishSF-1999990.pt"
+                ]
+            },
+            {
+                "steps": 2001654,
+                "file_path": "results\\curiosity-curriculum-normalized\\FishSF\\FishSF-2001654.onnx",
+                "reward": null,
+                "creation_time": 1649247774.1067083,
+                "auxillary_file_paths": [
+                    "results\\curiosity-curriculum-normalized\\FishSF\\FishSF-2001654.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2001654,
+            "file_path": "results\\curiosity-curriculum-normalized\\FishSF.onnx",
+            "reward": null,
+            "creation_time": 1649247774.1067083,
+            "auxillary_file_paths": [
+                "results\\curiosity-curriculum-normalized\\FishSF\\FishSF-2001654.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

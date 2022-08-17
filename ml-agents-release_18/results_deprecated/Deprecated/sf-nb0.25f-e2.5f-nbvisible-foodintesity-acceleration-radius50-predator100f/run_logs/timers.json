@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1648812821",
+        "python_version": "3.9.9 (tags/v3.9.9:ccb0e6a, Nov 15 2021, 18:08:50) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\Mon\\Desktop\\Senior\\ml-agents-release_18\\venv\\Scripts\\mlagents-learn config/ppo/FishSF_latest.yaml --run-id=sf-nb0.25f-e2.5f-nbvisible-foodintesity-acceleration-radius50-predator100f --force",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.22.0",
+        "end_time_seconds": "1648812834"
+    },
+    "total": 13.816602,
+    "count": 1,
+    "self": 0.006750600000000162,
+    "children": {
+        "run_training.setup": {
+            "total": 0.11381160000000001,
+            "count": 1,
+            "self": 0.11381160000000001
+        },
+        "TrainerController.start_learning": {
+            "total": 13.6960398,
+            "count": 1,
+            "self": 0.0003349000000003599,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 13.6956941,
+                    "count": 1,
+                    "self": 13.6956941
+                },
+                "trainer_threads": {
+                    "total": 1.1999999998124622e-06,
+                    "count": 1,
+                    "self": 1.1999999998124622e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 9.599999998499698e-06,
+                    "count": 1,
+                    "self": 9.599999998499698e-06
+                }
+            }
+        }
+    }
+}
